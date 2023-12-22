@@ -955,7 +955,6 @@ class CameraTest(QMainWindow, Ui_MainWindow, Integ_Isapi):
                 v.trans_result.connect(self.play)
                 v.finished.connect(self.remove_thread_task)
                 v.start()
-                time.sleep(1)
 
         except Exception as e:
             # """设备测试打印展示"""
