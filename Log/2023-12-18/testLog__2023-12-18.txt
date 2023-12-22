@@ -1,0 +1,7 @@
+[2023-12-18 16:13:31  SPEC_Main.py 876] [ERROR]测试过程中出现异常:not enough values to unpack (expected 5, got 4)
+[2023-12-18 16:14:10  SPEC_Main.py 876] [ERROR]测试过程中出现异常:'spec_test' object has no attribute 'chans_num'
+[2023-12-18 16:15:15  SPEC_Main.py 876] [ERROR]测试过程中出现异常:'spec_test' object has no attribute 'chans_num'
+[2023-12-18 16:17:27  SPEC_Main.py 876] [ERROR]测试过程中出现异常:not enough values to unpack (expected 5, got 4)
+[2023-12-18 16:45:22  SPEC_Main.py 640] [INFO]用户选择：YES
+[2023-12-18 16:49:49  SPEC_Main.py 640] [INFO]用户选择：YES
+[2023-12-18 19:03:05  SPEC_Main.py 640] [INFO]用户选择：YES

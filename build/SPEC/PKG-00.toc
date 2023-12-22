@@ -1,0 +1,3511 @@
+('D:\\02 前端自动化\\工具开发\\工具开发\\sepc\\V2.2\\build\\SPEC\\SPEC.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'D:\\02 前端自动化\\工具开发\\工具开发\\sepc\\V2.2\\build\\SPEC\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\02 前端自动化\\工具开发\\工具开发\\sepc\\V2.2\\build\\SPEC\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\02 '
+   '前端自动化\\工具开发\\工具开发\\sepc\\V2.2\\build\\SPEC\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\02 '
+   '前端自动化\\工具开发\\工具开发\\sepc\\V2.2\\build\\SPEC\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\02 '
+   '前端自动化\\工具开发\\工具开发\\sepc\\V2.2\\build\\SPEC\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\02 '
+   '前端自动化\\工具开发\\工具开发\\sepc\\V2.2\\build\\SPEC\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'D:\\Program '
+   'Files\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_win32comgenpy',
+   'D:\\Program '
+   'Files\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_win32comgenpy.py',
+   'PYSOURCE'),
+  ('pyi_rth_pywintypes',
+   'D:\\Program '
+   'Files\\Python38\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_pywintypes.py',
+   'PYSOURCE'),
+  ('pyi_rth_pythoncom',
+   'D:\\Program '
+   'Files\\Python38\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_pythoncom.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'D:\\Program '
+   'Files\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'D:\\Program '
+   'Files\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqt5',
+   'D:\\Program '
+   'Files\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyqt5.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'D:\\Program '
+   'Files\\Python38\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('SPEC_Main',
+   'D:\\02 前端自动化\\工具开发\\工具开发\\sepc\\V2.2\\SPEC_Main.py',
+   'PYSOURCE'),
+  ('python38.dll', 'd:\\program files\\python38\\python38.dll', 'BINARY'),
+  ('pywin32_system32\\pywintypes38.dll',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pywin32_system32\\pywintypes38.dll',
+   'BINARY'),
+  ('pywin32_system32\\pythoncom38.dll',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pywin32_system32\\pythoncom38.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\styles\\qwindowsvistastyle.dll',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\styles\\qwindowsvistastyle.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\libGLESv2.dll',
+   'D:\\Program '
+   'Files\\Python38\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\libGLESv2.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\libEGL.dll',
+   'D:\\Program '
+   'Files\\Python38\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\libEGL.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\d3dcompiler_47.dll',
+   'D:\\Program '
+   'Files\\Python38\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\d3dcompiler_47.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\opengl32sw.dll',
+   'D:\\Program '
+   'Files\\Python38\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\opengl32sw.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('libopenblas64__v0.3.21-gcc_10_3_0.dll',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\numpy\\.libs\\libopenblas64__v0.3.21-gcc_10_3_0.dll',
+   'BINARY'),
+  ('select.pyd', 'd:\\program files\\python38\\DLLs\\select.pyd', 'EXTENSION'),
+  ('_hashlib.pyd',
+   'd:\\program files\\python38\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd', 'd:\\program files\\python38\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_bz2.pyd', 'd:\\program files\\python38\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('pyexpat.pyd',
+   'd:\\program files\\python38\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd', 'd:\\program files\\python38\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('unicodedata.pyd',
+   'd:\\program files\\python38\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'd:\\program files\\python38\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'd:\\program files\\python38\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'd:\\program files\\python38\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_queue.pyd', 'd:\\program files\\python38\\DLLs\\_queue.pyd', 'EXTENSION'),
+  ('win32\\win32wnet.pyd',
+   'd:\\program files\\python38\\lib\\site-packages\\win32\\win32wnet.pyd',
+   'EXTENSION'),
+  ('win32\\win32api.pyd',
+   'd:\\program files\\python38\\lib\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('win32com\\shell\\shell.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\win32comext\\shell\\shell.pyd',
+   'EXTENSION'),
+  ('win32\\win32trace.pyd',
+   'd:\\program files\\python38\\lib\\site-packages\\win32\\win32trace.pyd',
+   'EXTENSION'),
+  ('win32\\_win32sysloader.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\win32\\_win32sysloader.pyd',
+   'EXTENSION'),
+  ('Pythonwin\\win32ui.pyd',
+   'd:\\program files\\python38\\lib\\site-packages\\Pythonwin\\win32ui.pyd',
+   'EXTENSION'),
+  ('_cffi_backend.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\_cffi_backend.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('cryptography\\hazmat\\bindings\\_rust.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\cryptography\\hazmat\\bindings\\_rust.pyd',
+   'EXTENSION'),
+  ('bcrypt\\_bcrypt.pyd',
+   'd:\\program files\\python38\\lib\\site-packages\\bcrypt\\_bcrypt.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\charset_normalizer\\md__mypyc.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\charset_normalizer\\md.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('nacl\\_sodium.pyd',
+   'd:\\program files\\python38\\lib\\site-packages\\nacl\\_sodium.pyd',
+   'EXTENSION'),
+  ('win32\\win32security.pyd',
+   'd:\\program files\\python38\\lib\\site-packages\\win32\\win32security.pyd',
+   'EXTENSION'),
+  ('lxml\\etree.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\lxml\\etree.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\_elementpath.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\lxml\\_elementpath.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\sax.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\lxml\\sax.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\objectify.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\lxml\\objectify.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\html\\diff.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\lxml\\html\\diff.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\html\\clean.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\lxml\\html\\clean.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'd:\\program files\\python38\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'd:\\program files\\python38\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('lxml\\builder.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\lxml\\builder.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'd:\\program files\\python38\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('PyQt5\\sip.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\sip.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtWidgets.pyd',
+   'd:\\program files\\python38\\lib\\site-packages\\PyQt5\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtGui.pyd',
+   'd:\\program files\\python38\\lib\\site-packages\\PyQt5\\QtGui.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtCore.pyd',
+   'd:\\program files\\python38\\lib\\site-packages\\PyQt5\\QtCore.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'd:\\program files\\python38\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\writers.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\writers.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\window\\indexers.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\window\\indexers.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\window\\aggregations.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\window\\aggregations.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\vectorized.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\tslibs\\vectorized.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\tzconversion.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\tslibs\\tzconversion.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timezones.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\tslibs\\timezones.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timestamps.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\tslibs\\timestamps.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timedeltas.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\tslibs\\timedeltas.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\strptime.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\tslibs\\strptime.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\period.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\tslibs\\period.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\parsing.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\tslibs\\parsing.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\offsets.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\tslibs\\offsets.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\np_datetime.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\tslibs\\np_datetime.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\nattype.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\tslibs\\nattype.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\fields.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\tslibs\\fields.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\dtypes.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\tslibs\\dtypes.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\conversion.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\tslibs\\conversion.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\ccalendar.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\tslibs\\ccalendar.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\base.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\tslibs\\base.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\testing.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\testing.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\sparse.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\sparse.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\reshape.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\reshape.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\reduction.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\reduction.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\properties.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\properties.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\parsers.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\parsers.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\ops_dispatch.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\ops_dispatch.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\ops.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\ops.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\missing.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\missing.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\json.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\json.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\join.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\join.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\interval.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\interval.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\internals.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\internals.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\indexing.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\indexing.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\index.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\index.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\hashing.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\hashing.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\groupby.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\groupby.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\arrays.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\arrays.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\algos.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\algos.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('_sqlite3.pyd',
+   'd:\\program files\\python38\\DLLs\\_sqlite3.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_tests.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\numpy\\core\\_multiarray_tests.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32\\win32pdh.pyd',
+   'd:\\program files\\python38\\lib\\site-packages\\win32\\win32pdh.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\lapack_lite.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\numpy\\linalg\\lapack_lite.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_umath.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\numpy\\core\\_multiarray_umath.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\io\\sas\\_sas.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\io\\sas\\_sas.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\io\\sas\\_byteswap.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\io\\sas\\_byteswap.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslib.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\tslib.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\lib.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\lib.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\hashtable.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\hashtable.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\numpy\\random\\mtrand.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\numpy\\random\\_sfc64.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\numpy\\random\\_philox.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\numpy\\random\\_pcg64.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\numpy\\random\\_mt19937.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\numpy\\random\\bit_generator.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\numpy\\random\\_generator.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\numpy\\random\\_bounded_integers.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\numpy\\random\\_common.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_internal.cp38-win_amd64.pyd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\numpy\\fft\\_pocketfft_internal.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'd:\\program files\\python38\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'd:\\program files\\python38\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Core.dll',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Core.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Widgets.dll',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Widgets.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Gui.dll',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Gui.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\VCRUNTIME140_1.dll',
+   'D:\\Program '
+   'Files\\Python38\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\VCRUNTIME140.dll',
+   'D:\\Program '
+   'Files\\Python38\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\MSVCP140.dll',
+   'D:\\Program '
+   'Files\\Python38\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\MSVCP140.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Network.dll',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Network.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Quick.dll',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Quick.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5WebSockets.dll',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5WebSockets.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Svg.dll',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Svg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5DBus.dll',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5DBus.dll',
+   'BINARY'),
+  ('api-ms-win-crt-private-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-crt-private-l1-1-0.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'd:\\program files\\python38\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'd:\\program files\\python38\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('Pythonwin\\mfc140u.dll',
+   'd:\\program files\\python38\\lib\\site-packages\\Pythonwin\\mfc140u.dll',
+   'BINARY'),
+  ('python3.dll', 'd:\\program files\\python38\\python3.dll', 'BINARY'),
+  ('libffi-7.dll', 'd:\\program files\\python38\\DLLs\\libffi-7.dll', 'BINARY'),
+  ('pandas\\_libs\\window\\MSVCP140.dll',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\window\\MSVCP140.dll',
+   'BINARY'),
+  ('pandas\\_libs\\window\\VCRUNTIME140_1.dll',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\_libs\\window\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('sqlite3.dll', 'd:\\program files\\python38\\DLLs\\sqlite3.dll', 'BINARY'),
+  ('numpy\\.libs\\libopenblas64__v0.3.21-gcc_10_3_0.dll',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\numpy\\.libs\\libopenblas64__v0.3.21-gcc_10_3_0.dll',
+   'BINARY'),
+  ('ucrtbase.dll', 'D:\\SoftWare\\Anaconda\\ucrtbase.dll', 'BINARY'),
+  ('PyQt5\\Qt5\\bin\\MSVCP140_1.dll',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\bin\\MSVCP140_1.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Qml.dll',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Qml.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5QmlModels.dll',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5QmlModels.dll',
+   'BINARY'),
+  ('api-ms-win-crt-multibyte-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-crt-multibyte-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'D:\\SoftWare\\Anaconda\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('SpecTemplate\\SPEC_data.xlsx',
+   'D:\\02 前端自动化\\工具开发\\工具开发\\sepc\\V2.2\\SpecTemplate\\SPEC_data.xlsx',
+   'DATA'),
+  ('SpecTemplate\\app.jpg',
+   'D:\\02 前端自动化\\工具开发\\工具开发\\sepc\\V2.2\\SpecTemplate\\app.jpg',
+   'DATA'),
+  ('SpecTemplate\\~$SPEC_data.xlsx',
+   'D:\\02 前端自动化\\工具开发\\工具开发\\sepc\\V2.2\\SpecTemplate\\~$SPEC_data.xlsx',
+   'DATA'),
+  ('base_library.zip',
+   'D:\\02 前端自动化\\工具开发\\工具开发\\sepc\\V2.2\\build\\SPEC\\base_library.zip',
+   'DATA'),
+  ('certifi\\py.typed',
+   'd:\\program files\\python38\\lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'd:\\program files\\python38\\lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('cryptography-41.0.5.dist-info\\RECORD',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\cryptography-41.0.5.dist-info\\RECORD',
+   'DATA'),
+  ('cryptography-41.0.5.dist-info\\WHEEL',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\cryptography-41.0.5.dist-info\\WHEEL',
+   'DATA'),
+  ('cryptography-41.0.5.dist-info\\LICENSE',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\cryptography-41.0.5.dist-info\\LICENSE',
+   'DATA'),
+  ('cryptography-41.0.5.dist-info\\INSTALLER',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\cryptography-41.0.5.dist-info\\INSTALLER',
+   'DATA'),
+  ('cryptography-41.0.5.dist-info\\LICENSE.BSD',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\cryptography-41.0.5.dist-info\\LICENSE.BSD',
+   'DATA'),
+  ('cryptography-41.0.5.dist-info\\top_level.txt',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\cryptography-41.0.5.dist-info\\top_level.txt',
+   'DATA'),
+  ('cryptography-41.0.5.dist-info\\LICENSE.APACHE',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\cryptography-41.0.5.dist-info\\LICENSE.APACHE',
+   'DATA'),
+  ('cryptography-41.0.5.dist-info\\METADATA',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\cryptography-41.0.5.dist-info\\METADATA',
+   'DATA'),
+  ('nacl\\py.typed',
+   'd:\\program files\\python38\\lib\\site-packages\\nacl\\py.typed',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ko.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_pl.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_uk.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fr.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_hu.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_it.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_fi.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_bg.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_de.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_uk.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_en.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_fr.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_sl.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_sl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_sk.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_es.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ca.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_tr.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_bg.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ar.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_cs.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_en.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_zh_TW.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_fr.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_zh_TW.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ja.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_hu.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sv.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_lt.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_lt.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_da.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sk.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_pl.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_pl.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ru.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fi.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fi.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_gl.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_gl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_zh_CN.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_zh_CN.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_cs.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_da.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_uk.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_lv.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_it.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ja.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ko.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_es.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ja.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sl.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_tr.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_en.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ru.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_it.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_gd.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ko.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_cs.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_tr.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_he.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_he.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_de.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_zh_CN.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_zh_CN.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ru.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_bg.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fa.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fa.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ca.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_gl.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_gl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_sk.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_lv.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_lv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_pt.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_pt.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_hu.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_gd.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_gd.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ar.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_he.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_da.qm',
+   'D:\\program '
+   'files\\python38\\lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_da.qm',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Istanbul',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Istanbul',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Metlakatla',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Metlakatla',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Rothera',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Rothera',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Conakry',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Conakry',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Los_Angeles',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Los_Angeles',
+   'DATA'),
+  ('pytz\\zoneinfo\\leapseconds',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\leapseconds',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mendoza',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Mendoza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Atlantic',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Atlantic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chongqing',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chongqing',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\London',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\London',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zurich',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zurich',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guyana',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Guyana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\General',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Mexico\\General',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Anadyr',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Anadyr',
+   'DATA'),
+  ('pytz\\zoneinfo\\W-SU',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\W-SU',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Costa_Rica',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Costa_Rica',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Godthab',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Godthab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jerusalem',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jerusalem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-11',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-11',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lagos',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+8',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+8',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Lindeman',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Lindeman',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Regina',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Regina',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Inuvik',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Inuvik',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Yellowknife',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Yellowknife',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Noronha',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Noronha',
+   'DATA'),
+  ('pytz\\zoneinfo\\Egypt',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Egypt',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Samoa',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\US\\Samoa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+3',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+3',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-12',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-12',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Atyrau',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Atyrau',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Knox_IN',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Knox_IN',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Apia',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Apia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Oral',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Oral',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Windhoek',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Windhoek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Shanghai',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Shanghai',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dominica',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Dominica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\ACT',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\ACT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Macau',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Macau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tashkent',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tashkent',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Gaborone',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Gaborone',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Accra',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Accra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kyiv',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kyiv',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Sarajevo',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Sarajevo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Manaus',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Manaus',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Vincent',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\St_Vincent',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+1',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+1',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT-0',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\GMT-0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tiraspol',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tiraspol',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Central',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Central',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\Acre',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Brazil\\Acre',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Pyongyang',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Pyongyang',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Rome',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Rome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Pacific',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Pacific',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'DATA'),
+  ('pytz\\zoneinfo\\UCT',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\UCT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Swift_Current',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Swift_Current',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Marquesas',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Marquesas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Urumqi',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Urumqi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tehran',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tehran',
+   'DATA'),
+  ('pytz\\zoneinfo\\PRC',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\PRC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Saratov',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Saratov',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Syowa',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Syowa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tortola',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Tortola',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Malabo',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Malabo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-3',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-3',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Nouakchott',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Nouakchott',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cayenne',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Cayenne',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Christmas',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Christmas',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Campo_Grande',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Campo_Grande',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bahia',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Bahia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yangon',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yangon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Famagusta',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Famagusta',
+   'DATA'),
+  ('pytz\\zoneinfo\\zone1970.tab',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\zone1970.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\South',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\South',
+   'DATA'),
+  ('pytz\\zoneinfo\\Navajo',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Navajo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bangkok',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bangkok',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nipigon',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Nipigon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Vientiane',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Vientiane',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Denver',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Denver',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Brussels',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Brussels',
+   'DATA'),
+  ('pytz\\zoneinfo\\Turkey',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Turkey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chita',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chita',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Makassar',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Makassar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-7',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-7',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mexico_City',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Mexico_City',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Port_of_Spain',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Port_of_Spain',
+   'DATA'),
+  ('pytz\\zoneinfo\\MST7MDT',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\MST7MDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jayapura',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jayapura',
+   'DATA'),
+  ('pytz\\zoneinfo\\MST',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\MST',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kinshasa',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kinshasa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Anchorage',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Anchorage',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Muscat',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Muscat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+0',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+0',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Eirunepe',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Eirunepe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Luxembourg',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Luxembourg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-1',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-1',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fort_Wayne',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Fort_Wayne',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Noumea',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Noumea',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mazatlan',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Mazatlan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Davis',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Davis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Casey',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Casey',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Coral_Harbour',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Coral_Harbour',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Glace_Bay',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Glace_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Palau',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Palau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Efate',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Efate',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Manila',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Manila',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bissau',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bissau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Brunei',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Brunei',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Singapore',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Singapore',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Stockholm',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Stockholm',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Paramaribo',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Paramaribo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Troll',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Troll',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Skopje',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Skopje',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\East',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Brazil\\East',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\UCT',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\UCT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+7',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+7',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Amsterdam',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Amsterdam',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montreal',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Montreal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Magadan',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Magadan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dawson',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Dawson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Chagos',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Chagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Tasmania',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Tasmania',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Helsinki',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Helsinki',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Gibraltar',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Gibraltar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Iceland',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Iceland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Maseru',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Maseru',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hovd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hovd',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guayaquil',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Guayaquil',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aden',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aden',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Vostok',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Vostok',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Marigot',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Marigot',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mauritius',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mauritius',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+12',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+12',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Asuncion',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Asuncion',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kashgar',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kashgar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Belgrade',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Belgrade',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Mountain',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\US\\Mountain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Sofia',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Sofia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Araguaina',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Araguaina',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santiago',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Santiago',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santa_Isabel',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Santa_Isabel',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Simferopol',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Simferopol',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Aleutian',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\US\\Aleutian',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Khandyga',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Khandyga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jakarta',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jakarta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tarawa',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tarawa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Johns',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\St_Johns',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Nauru',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Nauru',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vilnius',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vilnius',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bahrain',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bahrain',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Resolute',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Resolute',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Yancowinna',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Yancowinna',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nome',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Nome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+5',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+5',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Melbourne',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Melbourne',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Merida',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Merida',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Boa_Vista',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Boa_Vista',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montserrat',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Montserrat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Chatham',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Chatham',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Central',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\US\\Central',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Grenada',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Grenada',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Winnipeg',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Winnipeg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-9',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-9',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Harbin',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Harbin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Chile\\Continental',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Chile\\Continental',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hebron',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hebron',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Palmer',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Palmer',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Niue',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Niue',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lome',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lome',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Managua',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Managua',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tomsk',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tomsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nassau',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Nassau',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Kitts',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\St_Kitts',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Bougainville',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Bougainville',
+   'DATA'),
+  ('pytz\\zoneinfo\\tzdata.zi',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\tzdata.zi',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cordoba',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Cordoba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Saipan',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Saipan',
+   'DATA'),
+  ('pytz\\zoneinfo\\NZ',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\NZ',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Universal',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\Universal',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Iqaluit',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Iqaluit',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Karachi',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Karachi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Pontianak',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Pontianak',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fortaleza',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Fortaleza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Madrid',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Madrid',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Antananarivo',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Antananarivo',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT+0',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\GMT+0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Katmandu',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Katmandu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Maceio',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Maceio',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Guernsey',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Guernsey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Canberra',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Canberra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\North',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\North',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tijuana',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Tijuana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-10',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-10',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Amman',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Amman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chungking',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chungking',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Michigan',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\US\\Michigan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dacca',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dacca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Prague',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Prague',
+   'DATA'),
+  ('pytz\\zoneinfo\\Cuba',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Cuba',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\La_Paz',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\La_Paz',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dushanbe',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dushanbe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guatemala',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Guatemala',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Baghdad',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Baghdad',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Macao',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Macao',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Berlin',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Berlin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Oslo',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Oslo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kabul',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kabul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Zulu',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Zulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Barbados',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Barbados',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuwait',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuwait',
+   'DATA'),
+  ('pytz\\zoneinfo\\Eire',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Eire',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Phoenix',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Phoenix',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Chicago',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Chicago',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Belem',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Belem',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Hawaii',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\US\\Hawaii',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Eucla',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Eucla',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Catamarca',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Catamarca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Malta',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Malta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Yap',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Yap',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qatar',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qatar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Mbabane',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Mbabane',
+   'DATA'),
+  ('pytz\\zoneinfo\\ROK',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\ROK',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-8',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-8',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Majuro',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Majuro',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Samarkand',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Samarkand',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Martinique',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Martinique',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Chisinau',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Chisinau',
+   'DATA'),
+  ('pytz\\zoneinfo\\HST',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\HST',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Asmera',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Asmera',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\LHI',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\LHI',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Porto_Acre',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Porto_Acre',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Mountain',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Mountain',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Funafuti',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Funafuti',
+   'DATA'),
+  ('pytz\\zoneinfo\\UTC',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\UTC',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Adak',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Adak',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Matamoros',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Matamoros',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Goose_Bay',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Goose_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Atka',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Atka',
+   'DATA'),
+  ('pytz\\zoneinfo\\iso3166.tab',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\iso3166.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kanton',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kanton',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Greenwich',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\Greenwich',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Eastern',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\US\\Eastern',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Wake',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Wake',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\East-Indiana',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\US\\East-Indiana',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Libya',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Libya',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Factory',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Factory',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Belize',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Belize',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tokyo',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tokyo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Israel',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Israel',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kirov',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kirov',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vaduz',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vaduz',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-14',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-14',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\GMT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+10',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+10',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Monaco',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Monaco',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Louisville',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Louisville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lusaka',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lusaka',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Caracas',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Caracas',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rosario',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Rosario',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indianapolis',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indianapolis',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Yakutat',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Yakutat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Iran',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Iran',
+   'DATA'),
+  ('pytz\\zoneinfo\\WET',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\WET',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Sitka',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Sitka',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Copenhagen',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Copenhagen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Samara',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Samara',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tegucigalpa',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Tegucigalpa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Thimbu',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Thimbu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Libreville',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Libreville',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ojinaga',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Ojinaga',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Indiana-Starke',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\US\\Indiana-Starke',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tbilisi',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tbilisi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Harare',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Harare',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Moscow',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Moscow',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dubai',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dubai',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Minsk',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Minsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Damascus',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Damascus',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Mogadishu',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Mogadishu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Freetown',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Freetown',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ashgabat',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ashgabat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Buenos_Aires',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Buenos_Aires',
+   'DATA'),
+  ('pytz\\zoneinfo\\ROC',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\ROC',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Lima',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Lima',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Baku',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Baku',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dawson_Creek',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Dawson_Creek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Toronto',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Toronto',
+   'DATA'),
+  ('pytz\\zoneinfo\\Greenwich',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Greenwich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Galapagos',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Galapagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+2',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+2',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Hermosillo',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Hermosillo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Kerguelen',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Kerguelen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Choibalsan',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Choibalsan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Thomas',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\St_Thomas',
+   'DATA'),
+  ('pytz\\zoneinfo\\PST8PDT',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\PST8PDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Samoa',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Samoa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Asmara',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Asmara',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+9',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+9',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Khartoum',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Khartoum',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Victoria',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Victoria',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Saigon',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Saigon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Beirut',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Beirut',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\New_York',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\New_York',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Lower_Princes',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Lower_Princes',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Jamaica',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Jamaica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mahe',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mahe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Vancouver',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Vancouver',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Enderbury',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Enderbury',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Tunis',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Tunis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Japan',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Japan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Budapest',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Budapest',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Blantyre',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Blantyre',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Halifax',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Halifax',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Jersey',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Jersey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'DATA'),
+  ('pytz\\zoneinfo\\Poland',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Poland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Maldives',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Maldives',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Almaty',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Almaty',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Auckland',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Auckland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Timbuktu',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Timbuktu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Nairobi',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Nairobi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Taipei',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Taipei',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Easter',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Easter',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kigali',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kigali',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Miquelon',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Miquelon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuching',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuching',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Port-au-Prince',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Port-au-Prince',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Paris',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Paris',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Newfoundland',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Newfoundland',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rio_Branco',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Rio_Branco',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Johnston',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Johnston',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Hobart',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Hobart',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Puerto_Rico',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Puerto_Rico',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Bratislava',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Bratislava',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bangui',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bangui',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Maputo',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Maputo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT0',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tahiti',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tahiti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Belfast',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Belfast',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tirane',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tirane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Comoro',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Comoro',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Thimphu',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Thimphu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Danmarkshavn',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Danmarkshavn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qostanay',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qostanay',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Arizona',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\US\\Arizona',
+   'DATA'),
+  ('pytz\\zoneinfo\\Kwajalein',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Kwajalein',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Eastern',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Eastern',
+   'DATA'),
+  ('pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'DATA'),
+  ('pytz\\zoneinfo\\EST',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\EST',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Istanbul',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Istanbul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Juneau',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Juneau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Zulu',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\Zulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Midway',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Midway',
+   'DATA'),
+  ('pytz\\zoneinfo\\MET',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\MET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Casablanca',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Casablanca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-2',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-2',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Gambier',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Gambier',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Perth',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Perth',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Monrovia',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Monrovia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\El_Salvador',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\El_Salvador',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kathmandu',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kathmandu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Cocos',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Cocos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tallinn',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tallinn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bamako',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bamako',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Pangnirtung',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Pangnirtung',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Dakar',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Dakar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Brazzaville',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Brazzaville',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Sao_Paulo',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Sao_Paulo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Grand_Turk',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Grand_Turk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Abidjan',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Abidjan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Tripoli',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Tripoli',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Cairo',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Cairo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Edmonton',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Edmonton',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Punta_Arenas',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Punta_Arenas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kosrae',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kosrae',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mayotte',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mayotte',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Shiprock',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Shiprock',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dili',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dili',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT0',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\GMT0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Ponape',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Ponape',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\West',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Brazil\\West',
+   'DATA'),
+  ('pytz\\zoneinfo\\Hongkong',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Hongkong',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Boise',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Boise',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Thule',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Thule',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Omsk',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Omsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Portugal',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Portugal',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Athens',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Athens',
+   'DATA'),
+  ('pytz\\zoneinfo\\GB-Eire',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\GB-Eire',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Juba',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Juba',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Atikokan',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Atikokan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vatican',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vatican',
+   'DATA'),
+  ('pytz\\zoneinfo\\Chile\\EasterIsland',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Chile\\EasterIsland',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guadeloupe',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Guadeloupe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zagreb',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zagreb',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cayman',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Cayman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Djibouti',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Djibouti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Chihuahua',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Chihuahua',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Madeira',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Madeira',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Irkutsk',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Irkutsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yakutsk',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yakutsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ndjamena',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ndjamena',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Sakhalin',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Sakhalin',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rainy_River',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Rainy_River',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montevideo',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Montevideo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bogota',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Bogota',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Wallis',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Wallis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Sydney',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Sydney',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Mariehamn',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Mariehamn',
+   'DATA'),
+  ('pytz\\zoneinfo\\EET',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\EET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Luanda',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Luanda',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bishkek',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bishkek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kolkata',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kolkata',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Douala',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Douala',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Currie',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Currie',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dhaka',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dhaka',
+   'DATA'),
+  ('pytz\\zoneinfo\\EST5EDT',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\EST5EDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Barnaul',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Barnaul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Banjul',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Banjul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Recife',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Recife',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Dublin',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Dublin',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fort_Nelson',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Fort_Nelson',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Scoresbysund',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Scoresbysund',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santo_Domingo',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Santo_Domingo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santarem',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Santarem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Algiers',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Algiers',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Menominee',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Menominee',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Gaza',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Gaza',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Andorra',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Andorra',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Curacao',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Curacao',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Nicosia',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Nicosia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ensenada',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Ensenada',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Fiji',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Fiji',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Anguilla',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Anguilla',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Mawson',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Mawson',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Lucia',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\St_Lucia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Darwin',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Darwin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Reunion',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Reunion',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\BajaSur',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Mexico\\BajaSur',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Bucharest',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Bucharest',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Podgorica',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Podgorica',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Detroit',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Detroit',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Antigua',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Antigua',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Panama',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Panama',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Canary',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Canary',
+   'DATA'),
+  ('pytz\\zoneinfo\\NZ-CHAT',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\NZ-CHAT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Norfolk',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Norfolk',
+   'DATA'),
+  ('pytz\\zoneinfo\\zone.tab',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\zone.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cuiaba',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Cuiaba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Faroe',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Faroe',
+   'DATA'),
+  ('pytz\\zoneinfo\\CET',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\CET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Niamey',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Niamey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Chuuk',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Chuuk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Monterrey',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Monterrey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Johannesburg',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Johannesburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Colombo',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Colombo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'DATA'),
+  ('pytz\\zoneinfo\\Jamaica',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Jamaica',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-6',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-6',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Thunder_Bay',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Thunder_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Universal',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Universal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Yukon',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Yukon',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Whitehorse',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Whitehorse',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\UTC',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\UTC',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kralendijk',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Kralendijk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Volgograd',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Volgograd',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nuuk',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Nuuk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kiev',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kiev',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bujumbura',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bujumbura',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-5',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-5',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aqtobe',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aqtobe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ceuta',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ceuta',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Honolulu',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Honolulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Adelaide',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Adelaide',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Stanley',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Stanley',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Warsaw',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Warsaw',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Riyadh',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Riyadh',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\San_Marino',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\San_Marino',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-0',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-0',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Havana',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Havana',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Pacific',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\US\\Pacific',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Lisbon',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Lisbon',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Barthelemy',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\St_Barthelemy',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Astrakhan',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Astrakhan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kampala',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kampala',
+   'DATA'),
+  ('pytz\\zoneinfo\\GB',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\GB',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Moncton',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Moncton',
+   'DATA'),
+  ('pytz\\zoneinfo\\CST6CDT',
+   'd:\\program files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\CST6CDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Guam',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Guam',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Singapore',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Singapore',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+11',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+11',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Brisbane',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Brisbane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Vladivostok',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Vladivostok',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vienna',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vienna',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cancun',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Cancun',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\NSW',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\NSW',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Porto_Velho',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Porto_Velho',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Truk',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Truk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Nicosia',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Nicosia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Azores',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Azores',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ciudad_Juarez',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Ciudad_Juarez',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-4',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-4',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-13',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-13',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Seoul',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Seoul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Rangoon',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Rangoon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Busingen',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Busingen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Creston',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Creston',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+4',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+4',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Jujuy',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Jujuy',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Ljubljana',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Ljubljana',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Alaska',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\US\\Alaska',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Calcutta',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Calcutta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kamchatka',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kamchatka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Queensland',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Queensland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+6',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+6',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yerevan',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yerevan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Virgin',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Virgin',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aqtau',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aqtau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\West',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\West',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Riga',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Riga',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Aruba',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pytz\\zoneinfo\\America\\Aruba',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html_table.tpl',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\io\\formats\\templates\\html_table.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\string.tpl',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\io\\formats\\templates\\string.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex_longtable.tpl',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\io\\formats\\templates\\latex_longtable.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex_table.tpl',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\io\\formats\\templates\\latex_table.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html_style.tpl',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\io\\formats\\templates\\html_style.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html.tpl',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\io\\formats\\templates\\html.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex.tpl',
+   'd:\\program '
+   'files\\python38\\lib\\site-packages\\pandas\\io\\formats\\templates\\latex.tpl',
+   'DATA')],
+ 'python38.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
